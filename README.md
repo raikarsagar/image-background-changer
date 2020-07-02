@@ -21,7 +21,7 @@ Use the script as specified below, to execute fast but lower accuracy model:
 
 [Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_background.jpg)
 
-[Image with Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_bgchanged.png)
+[Image with Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_bgchanged.jpeg)
 
 ### Credits to 
 [Susheelsk](https://github.com/susheelsk)
