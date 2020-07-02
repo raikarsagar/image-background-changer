@@ -17,9 +17,9 @@ Use the script as specified below, to execute fast but lower accuracy model:
 >	tensorflow, PIL
 
 ### Sample Result
-[Input](https://github.com/raikarsagar/image-background-changer/blob/master/sample.jpg)
+[Input](https://github.com/raikarsagar/image-background-changer/blob/master/sample.jpeg)
 
-[Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_background.jpg)
+[Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_background.jpeg)
 
 [Image with Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_bgchanged.jpeg)
 
