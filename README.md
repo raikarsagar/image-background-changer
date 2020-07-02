@@ -11,20 +11,17 @@ For better accuracy (slower approach) :
 >	python3 seg_chng_background.py sample.jpg sample_background.jpeg sample_bgchanged.jpeg accurate
 
 Use the script as specified below, to execute fast but lower accuracy model:
->	python3 seg.py sample.jpg sample_background.jpeg sample_bgchanged.jpeg
+>	python3 seg_chng_background.py sample.jpg sample_background.jpeg sample_bgchanged.jpeg
 
 ### Dependencies
 >	tensorflow, PIL
 
 ### Sample Result
-Input: 
-![alt text](https://github.com/raikarsagar/image-background-changer/blob/master/sample.jpg "Input")
+[Input](https://github.com/raikarsagar/image-background-changer/blob/master/sample.jpg)
 
-Background:
-![alt text](https://github.com/raikarsagar/image-background-changer/blob/master/sample_background.jpg "Background")
+[Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_background.jpg)
 
-Output: 
-![alt text](https://github.com/raikarsagar/image-background-changer/blob/master/sample_bgchanged.png "Output")
+[Image with Background](https://github.com/raikarsagar/image-background-changer/blob/master/sample_bgchanged.png)
 
 ### Credits to 
 [Susheelsk](https://github.com/susheelsk)
